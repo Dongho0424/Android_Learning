@@ -1,0 +1,2 @@
+rootProject.name = "InheritanceAndExtension"
+include ':app'

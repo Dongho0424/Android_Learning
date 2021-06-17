@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapter4_WidgetsProgressBar</string>
+    <string name="new_string">새로운 스트링</string>
+    <string name="hi">안녕</string>
+</resources>
