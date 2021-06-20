@@ -13,7 +13,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.chapter6_permission"
+        applicationId "com.example.chapter6_baseactivity"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
